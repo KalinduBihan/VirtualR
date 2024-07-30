@@ -11,7 +11,6 @@ Follow these instructions to get the project up and running on your local machin
 Ensure you have the following software installed on your machine:
 
 - [Node.js](https://nodejs.org/) (version 14 or later)
-- npm (comes with Node.js) or [yarn](https://yarnpkg.com/)
 
 ### Installation
 
